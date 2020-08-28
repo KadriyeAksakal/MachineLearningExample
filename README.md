@@ -1,1 +1,1 @@
-"#MachineLearningExample-> Udemy eğitimleri sırasında yazmış oldu§um makine öğrenmesi kod örneklerini barındırır. Accuracy değerleri için kaggle hesabıma bakabilirsiniz->https://www.kaggle.com/kadriyeaksakal" 
+"#MachineLearningExample-> Udemy eğitimleri sırasında yazmış olduğum makine öğrenmesi kod örneklerini barındırır. Accuracy değerleri için kaggle hesabıma bakabilirsiniz->https://www.kaggle.com/kadriyeaksakal" 
