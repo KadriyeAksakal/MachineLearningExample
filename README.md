@@ -1,1 +1,1 @@
-"#MachineLearningExample-> Udemy e§itimleri srasnda yazmŸ oldu§um makine ”§renemesi kod ”rneklerini barndrr." 
+"#MachineLearningExample-> Udemy eÄŸitimleri sÄ±rasÄ±nda yazmÄ±ÅŸ olduÂ§um makine Ã¶ÄŸrenmesi kod Ã¶rneklerini barÄ±ndÄ±rÄ±r. Accuracy deÄŸerleri iÃ§in kaggle hesabÄ±ma bakabilirsiniz->https://www.kaggle.com/kadriyeaksakal" 
